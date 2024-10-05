@@ -1,4 +1,4 @@
-![image (2)](https://github.com/user-attachments/assets/7357665b-9183-41ba-a5f7-1415801ccf69)
+![ghb](https://github.com/user-attachments/assets/671010ce-feff-48ad-85b5-62e226ac84b6)
 <h1 align="center">Hi 👋, I'm Wafiq Ak</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafiqak&show_icons=true&locale=en" alt="wafiqak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqak&" alt="wafiqak" /></p>
+![ghb](https://github.com/user-attachments/assets/671010ce-feff-48ad-85b5-62e226ac84b6)
 
