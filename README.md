@@ -1,4 +1,4 @@
-[![MasterHead](![image (1)](https://github.com/user-attachments/assets/ca5d5b91-7a43-444b-9617-4d3210aa6e29)
+![image (1)](https://github.com/user-attachments/assets/ca5d5b91-7a43-444b-9617-4d3210aa6e29)
 <h1 align="center">Hi 👋, I'm Wafiq Ak</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
