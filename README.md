@@ -25,5 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafiqak&show_icons=true&locale=en" alt="wafiqak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqak&" alt="wafiqak" /></p>
-![ghb](https://github.com/user-attachments/assets/671010ce-feff-48ad-85b5-62e226ac84b6)
+
 
