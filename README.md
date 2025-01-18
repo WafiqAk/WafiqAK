@@ -10,7 +10,8 @@
 
 - 📫 How to reach me **wafiqak2003@gmail.com**
 
-- ⚡ Fun fact **I thrive in digital spaces but still struggle with USB orientation.**
+- ⚡ Fun fact **I thrive in digital spaces but still struggle with
+                 USB orientation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
