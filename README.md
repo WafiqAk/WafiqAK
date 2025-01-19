@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wafiqak&show_icons=true&locale=en" alt="wafiqak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafiqak&" alt="wafiqak" /></p>
+
 
 
