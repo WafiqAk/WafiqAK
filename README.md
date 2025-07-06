@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wafiq Ak</h1>
 <h3 align="center">👨‍💻 Frontend developer | 🎨Aspiring UI/UX designer | 🛡️Exploring cybersecurity.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafiqak&label=Profile%20views&color=0e75b6&style=flat" alt="wafiqak" /> </p>
 
