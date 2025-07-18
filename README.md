@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wafiq Ak</h1>
+<h1 align="center">Hello World!👋, I'm Wafiq Ak</h1>
 <h3 align="center">👨‍💻 Frontend developer | 🎨Aspiring UI/UX designer | 🛡️Exploring cybersecurity.</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
